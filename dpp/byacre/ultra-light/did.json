@@ -22,12 +22,6 @@
     "authentication": [
       "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
     ],
-    "capabilityInvocation": [
-      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
-    ],
-    "capabilityDelegation": [
-      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
-    ],
     "keyAgreement": [
       "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
     ],
