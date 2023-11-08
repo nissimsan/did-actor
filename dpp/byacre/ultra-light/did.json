@@ -1,0 +1,47 @@
+{
+    "@context": [
+      "https://www.w3.org/ns/did/v1",
+      "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P",
+    "verificationMethod": [
+      {
+        "id": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C",
+        "type": "JsonWebKey2020",
+        "controller": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P",
+        "publicKeyJwk": {
+          "kty": "OKP",
+          "crv": "Ed25519",
+          "x": "eBttanLs3yYMWyaF62GcXX2zWfhdi8mqqnsFdMtsVCM"
+        }
+      }
+    ],
+    "assertionMethod": [
+      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
+    ],
+    "authentication": [
+      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
+    ],
+    "capabilityInvocation": [
+      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
+    ],
+    "capabilityDelegation": [
+      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
+    ],
+    "keyAgreement": [
+      "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
+    ],
+    "alsoKnownAs": [
+      "https://platform.transmute.industries/organizations/org_6NT3iUWmAuo7oG1P",
+      "did:key:z6MknY7E51iMBTkX9grJmVVCozRGXHUYiFig91QKz8AKUS7C"
+    ],
+    "service": [
+      {
+        "id": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#traceability-api",
+        "type": [
+          "TraceabilityAPI"
+        ],
+        "serviceEndpoint": "https://platform.transmute.industries/organizations/org_6NT3iUWmAuo7oG1P"
+      }
+    ]
+  }
