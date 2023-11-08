@@ -42,6 +42,13 @@
           "TraceabilityAPI"
         ],
         "serviceEndpoint": "https://platform.transmute.industries/organizations/org_6NT3iUWmAuo7oG1P"
+      },
+      {
+        "id": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#product",
+        "type": [
+          "ProductPassport"
+        ],
+        "serviceEndpoint": "https://platform.transmute.industries/credentials/urn:transmute:credential:e80ec246-fec3-4cad-b397-2730254ec8a3"
       }
     ]
   }
