@@ -43,7 +43,7 @@
             "type": [
                 "ProductPassport"
             ],
-            "serviceEndpoint": "https://platform.transmute.industries/credentials/urn:transmute:credential:e80ec246-fec3-4cad-b397-2730254ec8a3"
+            "serviceEndpoint": "https://platform.transmute.industries/credentials/urn:transmute:credential:5cede9a7-c8e8-4d79-b684-a6a429651246"
         }
     ]
 }
