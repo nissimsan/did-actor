@@ -39,7 +39,7 @@
             "serviceEndpoint": "https://platform.transmute.industries/organizations/org_6NT3iUWmAuo7oG1P"
         },
         {
-            "id": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#product",
+            "id": "did:web:platform.transmute.industries:organizations:org_6NT3iUWmAuo7oG1P#dpp",
             "type": [
                 "ProductPassport"
             ],
